@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "uk-labour-market-navigator"
+version = "0.1.0rc6"
+description = "Evidence-led labour market research companion for People and Talent practitioners."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+license = "AGPL-3.0-only AND OGL-UK-3.0 AND CC-BY-SA-4.0"
+license-files = ["LICENSE", "NOTICE", "LICENSE-DOCS.md", "THIRD_PARTY_NOTICES.md"]
+authors = [{name = "Louise Mead"}]
+
+[project.optional-dependencies]
+adzuna = ["keyring>=25,<26"]
+dev = ["pytest>=8.0", "ruff>=0.5", "build>=1", "setuptools>=77"]
+
+[project.scripts]
+uk-labour-market-navigator = "uk_labour_market_navigator.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["uk_labour_market_navigator*"]
+
+[tool.setuptools.package-data]
+uk_labour_market_navigator = ["resources/*.json", "resources/*.gz", "resources/*.xlsx", "resources/*.zip", "resources/*.png"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.ruff.format]
+line-ending = "lf"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+norecursedirs = ["runs", "build", "dist", ".venv", ".venv-local"]

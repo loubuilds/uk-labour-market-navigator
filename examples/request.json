@@ -1,0 +1,19 @@
+{
+  "question": "We’re a fictional financial-services organisation recruiting customer service advisers for an established, on-site team in Sheffield. After discussing recruitment challenges with stakeholders, we’re researching the business case for higher pay. What can official workforce, advertising, earnings, paid hours, wider labour-market conditions, inflation and average earnings growth contribute, what further evidence would strengthen the case, and which recruitment actions should we be able to demonstrate when presenting it?",
+  "purpose": "Build an evidence-backed business case for higher pay, informed by stakeholder discussions and documented recruitment actions",
+  "places": [
+    "Sheffield"
+  ],
+  "role": "7219",
+  "requested_role": "customer service advisers",
+  "gaps": [
+    "Financial-services experience, product knowledge and regulatory competence are not isolated by these occupation sources.",
+    "On-site travel feasibility and this fictional organisation’s recruitment outcomes, working hours and offer are not measured."
+  ],
+  "scope_accepted": true,
+  "uk_full_time_annual_pay_accepted": true,
+  "demonstration": "Fictional worked example using public official statistics.",
+  "scope_note": "Fictional example explicitly accepts broader SOC2020 7219 Customer service occupations n.e.c. across industries and a separate UK full-time annual earnings benchmark. It does not assume a call-centre role, a financial-services subset or a full-time contract for the fictional vacancy. It also accepts area-wide Nomis April 2023 district indicators against same-period UK benchmarks, separately identified local model and national survey unemployment, UK consumer-price inflation and Great Britain whole-economy earnings growth. These are broader context, not occupation-specific supply, Sheffield inflation or an updated salary. Separate UK paid-hours benchmarks for the same whole occupation and full-time pattern are accepted. They are not paired with the annual earnings observations and do not specify the fictional vacancy’s hours.",
+  "wider_context_accepted": true,
+  "uk_paid_hours_accepted": true
+}

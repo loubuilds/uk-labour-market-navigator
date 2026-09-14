@@ -1,0 +1,18 @@
+{
+  "version": "ashe_2025_provisional_corrected_2025-12-19",
+  "release_date": "2025-10-23",
+  "correction_date": "2025-12-19",
+  "release_status": "provisional",
+  "schema_version": 1,
+  "record_count": 2472,
+  "snapshot_sha256": "09e8a1454d5cb2f40c04b57653343b73f1c3bfd751015f3466c13c2cb97b8ae9",
+  "source": {
+    "file": "ashe14.zip",
+    "sha256": "85888d690eecc71f062f82b6e75c243f29e2136279cb94dfa4b96d58d03c0d6d",
+    "bytes": 11202737,
+    "source_url": "https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/occupation4digitsoc2010ashetable14/2025provisional/ashetable142025provisional.zip"
+  },
+  "taxonomy": "SOC2020",
+  "geography": "United Kingdom",
+  "source_page": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/occupation4digitsoc2010ashetable14"
+}

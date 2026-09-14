@@ -1,0 +1,60 @@
+{
+  "title": "Sheffield customer service hiring: building the case for higher pay",
+  "opening": "Fictional worked example using public official statistics. Following stakeholder discussions in this scenario, the question is what would strengthen a business case for higher pay. Start with the offer and recruitment feedback: these figures provide benchmarks and context, but cannot identify the right increase.",
+  "sections": [
+    {
+      "heading": "A workforce exists; attraction still needs testing",
+      "text": "Sheffield’s historical share of employment in this customer-service occupation exceeds the England and Wales benchmark, and adverts show recruitment activity. Neither establishes a shortage or an available candidate pool. The category spans industries: financial-services knowledge and on-site travel feasibility remain open.",
+      "fact_ids": [
+        "E08000019.count",
+        "E08000019.share",
+        "E08000019.benchmark_share",
+        "E08000019.new_adverts"
+      ]
+    },
+    {
+      "heading": "Avoid a blanket tight-market argument",
+      "text": "The claimant proportion is above the UK figure and unchanged on the year. Employment is estimated lower and inactivity higher. Local modelled unemployment also has a higher point estimate, but its confidence range overlaps the national survey estimate. This does not rule out a role-specific pay problem; it challenges a simple low-claimant-rate explanation.",
+      "fact_ids": [
+        "E08000019.context_claimant_rate",
+        "K02000001.context_claimant_rate",
+        "E08000019.context_claimant_change",
+        "E08000019.context_employment_rate",
+        "K02000001.context_employment_rate",
+        "E08000019.context_inactivity_rate",
+        "K02000001.context_inactivity_rate",
+        "E08000019.context_unemployment_rate",
+        "K02000001.context_unemployment_rate"
+      ]
+    },
+    {
+      "heading": "Make the offer comparison like for like",
+      "text": "UK earnings and paid hours provide separate reference points. They do not tell us the working week associated with the median annual pay. Compare current offers on duties, basic salary, paid hours, overtime, bonuses and benefits. The fictional team’s pay and hours are unspecified, so no offer gap or increase can be calculated.",
+      "fact_ids": [
+        "pay.median",
+        "pay.lower_quartile",
+        "pay.upper_quartile",
+        "hours.basic_mean",
+        "hours.total_mean",
+        "hours.overtime_mean"
+      ]
+    },
+    {
+      "heading": "Bring review timing into the discussion",
+      "text": "Prices and average earnings have risen over their displayed periods. That makes purchasing power and review timing relevant, but average earnings growth is not the team’s pay award and does not update the occupation salary. Combine national context with current matched pay evidence and recruitment feedback.",
+      "fact_ids": [
+        "economic.l55o",
+        "economic.d7g7",
+        "economic.kai9",
+        "economic.kac3",
+        "pay.median"
+      ]
+    }
+  ],
+  "next_questions": [
+    "Strengthen the pay evidence: compare current local offers matched to duties and paid hours, separating basic salary, overtime, bonuses and benefits. Discuss the timing of the last pay review. These next steps are proposed checks; they have not been carried out in this example.",
+    "Test the recruitment explanation: review progression, drop-off and recorded reasons for withdrawal or rejection. What do applicants say about pay, hours, travel and requirements? Separate feedback from assumptions.",
+    "Show what has been learned: make the full offer clear in adverts, the careers site and recruitment marketing; review avoidable requirements and candidate friction. Compare how local employers present their offer, treating reviews and social content as selective signals. Document actions and outcomes to strengthen the business case—not as a condition for a fair-pay review."
+  ],
+  "reviewed_by_host": true
+}

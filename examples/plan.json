@@ -1,0 +1,126 @@
+{
+  "context_scope": {
+    "benchmark": {
+      "id": "K02000001",
+      "label": "United Kingdom"
+    },
+    "claimant_periods": [
+      "July 2026",
+      "July 2025"
+    ],
+    "places": [
+      {
+        "boundary": "local authorities: district / unitary (as of April 2023)",
+        "id": "E08000019",
+        "label": "Sheffield",
+        "type": "local_authority_district",
+        "version": "nomis_lad_april2023"
+      }
+    ],
+    "population": "Area-wide residents; no occupation filter",
+    "survey_period": "Apr 2025-Mar 2026",
+    "version": "nomis_context_2026-09-14"
+  },
+  "demand_scope": {
+    "occupation": {
+      "code": "7219",
+      "label": "Customer service occupations n.e.c.",
+      "version": "SOC2020"
+    },
+    "period": "2026Q2",
+    "places": [
+      {
+        "boundary": "ONS advertising district as at April 2023",
+        "id": "E08000019",
+        "label": "Sheffield",
+        "type": "local_authority_district",
+        "version": "ons_textkernel_lad_april2023"
+      }
+    ],
+    "source_version": "ons_textkernel_2026-08-21"
+  },
+  "economic_scope": {
+    "earnings": "Great Britain whole-economy average weekly earnings, April-June 2026 versus April-June 2025; regular and total, nominal and seasonally adjusted, excluding arrears",
+    "prices": "UK all-items CPIH and CPI, twelve months to July 2026",
+    "version": "ons_prices_earnings_august2026"
+  },
+  "gaps": [
+    "Financial-services experience, product knowledge and regulatory competence are not isolated by these occupation sources.",
+    "On-site travel feasibility and this fictional organisation’s recruitment outcomes, working hours and offer are not measured."
+  ],
+  "hours_scope": {
+    "geography_basis": "workplace",
+    "geography_id": "K02000001",
+    "geography_label": "United Kingdom",
+    "measures": [
+      "basic",
+      "total",
+      "overtime"
+    ],
+    "occupation": {
+      "code": "7219",
+      "label": "Customer service occupations n.e.c.",
+      "level": "unit_group",
+      "parent": "721",
+      "related_titles": "~ Complaints officer\n~ Customer adviser\n~ Customer service administrator\n~ Customer service adviser\n~ Customer service assistant\n~ Customer services representative",
+      "version": "SOC2020"
+    },
+    "source_occupation_label": "Customer service occupations n.e.c.",
+    "source_version": "ashe_paid_hours_2025_provisional_corrected_2025-12-19",
+    "statistics": [
+      "median",
+      "mean"
+    ],
+    "working_pattern": "full_time"
+  },
+  "include_context": true,
+  "include_demand": true,
+  "include_hours": true,
+  "include_pay": true,
+  "include_workforce": true,
+  "pay_accepted": true,
+  "pay_scope": {
+    "geography_basis": "workplace",
+    "geography_id": "K02000001",
+    "geography_label": "United Kingdom",
+    "measure": "annual_gross",
+    "occupation": {
+      "code": "7219",
+      "label": "Customer service occupations n.e.c.",
+      "level": "unit_group",
+      "parent": "721",
+      "related_titles": "~ Complaints officer\n~ Customer adviser\n~ Customer service administrator\n~ Customer service adviser\n~ Customer service assistant\n~ Customer services representative",
+      "version": "SOC2020"
+    },
+    "source_occupation_label": "Customer service occupations n.e.c.",
+    "source_version": "ashe_2025_provisional_corrected_2025-12-19",
+    "working_pattern": "full_time"
+  },
+  "purpose": "Build an evidence-backed business case for higher pay, informed by stakeholder discussions and documented recruitment actions",
+  "question": "We’re a fictional financial-services organisation recruiting customer service advisers for an established, on-site team in Sheffield. After discussing recruitment challenges with stakeholders, we’re researching the business case for higher pay. What can official workforce, advertising, earnings, paid hours, wider labour-market conditions, inflation and average earnings growth contribute, what further evidence would strengthen the case, and which recruitment actions should we be able to demonstrate when presenting it?",
+  "requested_role": "customer service advisers",
+  "schema_version": 5,
+  "scope": {
+    "occupation": {
+      "code": "7219",
+      "label": "Customer service occupations n.e.c.",
+      "level": "unit_group",
+      "parent": "721",
+      "related_titles": "~ Complaints officer\n~ Customer adviser\n~ Customer service administrator\n~ Customer service adviser\n~ Customer service assistant\n~ Customer services representative",
+      "version": "SOC2020"
+    },
+    "places": [
+      {
+        "boundary": "As tabulated in the Census 2021 release of 31 May 2023",
+        "id": "E08000019",
+        "label": "Sheffield",
+        "nation": "England",
+        "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/occupationsofthoseinemploymentbylocalareaworkingpatternemploymentstatusanddisabilitystatusenglandandwalescensus2021",
+        "type": "local_authority_district",
+        "version": "ons_census2021_occupation_2023"
+      }
+    ],
+    "source_version": "market_scope_v1"
+  },
+  "scope_accepted": true
+}

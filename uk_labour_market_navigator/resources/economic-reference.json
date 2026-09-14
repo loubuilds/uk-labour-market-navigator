@@ -1,0 +1,31 @@
+{
+  "version": "ons_prices_earnings_august2026",
+  "licence": "Open Government Licence v3.0",
+  "sources": {
+    "l55o": {
+      "url": "https://www.ons.gov.uk/generator?format=csv&uri=%2Feconomy%2Finflationandpriceindices%2Ftimeseries%2Fl55o%2Fmm23",
+      "page": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23",
+      "sha256": "91a125a279d22d7d5fe76457e3470dd6b9f15192fec5a2b3b6f4d4fd4345a53c",
+      "retrieved_utc": "2026-09-13T23:52:46.022019+00:00"
+    },
+    "d7g7": {
+      "url": "https://www.ons.gov.uk/generator?format=csv&uri=%2Feconomy%2Finflationandpriceindices%2Ftimeseries%2Fd7g7%2Fmm23",
+      "page": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g7/mm23",
+      "sha256": "6c03f5274ed330721df7aff4e61264287e707e623855bc5445dc8f9378b9e1ae",
+      "retrieved_utc": "2026-09-13T23:52:46.083094+00:00"
+    },
+    "kai9": {
+      "url": "https://www.ons.gov.uk/generator?format=csv&uri=%2Femploymentandlabourmarket%2Fpeopleinwork%2Fearningsandworkinghours%2Ftimeseries%2Fkai9%2Flms",
+      "page": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/kai9/lms",
+      "sha256": "daf12fcb7cc1206f0421ca851f002edaa18170edb39a647818018cad87d6ad68",
+      "retrieved_utc": "2026-09-13T23:52:46.196118+00:00"
+    },
+    "kac3": {
+      "url": "https://www.ons.gov.uk/generator?format=csv&uri=%2Femploymentandlabourmarket%2Fpeopleinwork%2Fearningsandworkinghours%2Ftimeseries%2Fkac3%2Flms",
+      "page": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/kac3/lms",
+      "sha256": "a25e3a9e6b412527ccd24257263e741c0edbb7fc4368ea560e240db789428f84",
+      "retrieved_utc": "2026-09-13T23:52:46.309229+00:00"
+    }
+  },
+  "archive_sha256": "1620813eca3c6c3829f9fe6c3fde4432bf771c1fa9a57349ffdef1489ec3f824"
+}

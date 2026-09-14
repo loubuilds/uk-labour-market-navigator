@@ -1,0 +1,7 @@
+include README.md AGENTS.md CONTRIBUTING.md LICENSE NOTICE LICENSE-DOCS.md THIRD_PARTY_NOTICES.md
+recursive-include docs *.md *.json
+recursive-include examples *.md *.html *.json *.svg
+recursive-include scripts *.py
+recursive-include tests *.py
+global-exclude *.py[cod]
+recursive-include assets *.md *.png *.svg

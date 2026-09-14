@@ -1,0 +1,17 @@
+{
+  "kind": "synthetic_development_scenarios",
+  "journeys": [
+    {
+      "id": "recruiter",
+      "question": "We’re a fictional financial-services organisation recruiting customer service advisers for an established, on-site team in Sheffield. After discussing recruitment challenges with stakeholders, we’re researching the business case for higher pay. What can official workforce, advertising, earnings, paid hours, wider labour-market conditions, inflation and average earnings growth contribute, what further evidence would strengthen the case, and which recruitment actions should we be able to demonstrate when presenting it?"
+    },
+    {
+      "id": "ta_comparison",
+      "question": "What would a comparison with another explicitly chosen district add to the fictional Sheffield customer-service discussion?"
+    },
+    {
+      "id": "unsure_people",
+      "question": "I work in People and am not sure where to start. Show me what this can do."
+    }
+  ]
+}

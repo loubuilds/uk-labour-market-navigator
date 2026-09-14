@@ -1,0 +1,2651 @@
+{
+  "archive_sha256": "d0c13d2fdb73156cffd5a2b598c777cd4bacf750d2b05d3bbf03dcdf9d1f275c",
+  "benchmark": {
+    "id": "K02000001",
+    "label": "United Kingdom"
+  },
+  "licence": "Open Government Licence v3.0; source: Office for National Statistics via Nomis",
+  "places": {
+    "E06000001": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000001",
+      "label": "Hartlepool",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000002": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000002",
+      "label": "Middlesbrough",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000003": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000003",
+      "label": "Redcar and Cleveland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000004": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000004",
+      "label": "Stockton-on-Tees",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000005": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000005",
+      "label": "Darlington",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000006": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000006",
+      "label": "Halton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000007": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000007",
+      "label": "Warrington",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000008": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000008",
+      "label": "Blackburn with Darwen",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000009": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000009",
+      "label": "Blackpool",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000010": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000010",
+      "label": "Kingston upon Hull, City of",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000011": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000011",
+      "label": "East Riding of Yorkshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000012": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000012",
+      "label": "North East Lincolnshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000013": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000013",
+      "label": "North Lincolnshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000014": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000014",
+      "label": "York",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000015": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000015",
+      "label": "Derby",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000016": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000016",
+      "label": "Leicester",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000017": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000017",
+      "label": "Rutland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000018": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000018",
+      "label": "Nottingham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000019": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000019",
+      "label": "Herefordshire, County of",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000020": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000020",
+      "label": "Telford and Wrekin",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000021": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000021",
+      "label": "Stoke-on-Trent",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000022": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000022",
+      "label": "Bath and North East Somerset",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000023": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000023",
+      "label": "Bristol, City of",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000024": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000024",
+      "label": "North Somerset",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000025": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000025",
+      "label": "South Gloucestershire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000026": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000026",
+      "label": "Plymouth",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000027": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000027",
+      "label": "Torbay",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000030": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000030",
+      "label": "Swindon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000031": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000031",
+      "label": "Peterborough",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000032": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000032",
+      "label": "Luton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000033": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000033",
+      "label": "Southend-on-Sea",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000034": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000034",
+      "label": "Thurrock",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000035": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000035",
+      "label": "Medway",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000036": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000036",
+      "label": "Bracknell Forest",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000037": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000037",
+      "label": "West Berkshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000038": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000038",
+      "label": "Reading",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000039": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000039",
+      "label": "Slough",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000040": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000040",
+      "label": "Windsor and Maidenhead",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000041": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000041",
+      "label": "Wokingham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000042": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000042",
+      "label": "Milton Keynes",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000043": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000043",
+      "label": "Brighton and Hove",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000044": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000044",
+      "label": "Portsmouth",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000045": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000045",
+      "label": "Southampton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000046": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000046",
+      "label": "Isle of Wight",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000047": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000047",
+      "label": "County Durham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000049": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000049",
+      "label": "Cheshire East",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000050": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000050",
+      "label": "Cheshire West and Chester",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000051": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000051",
+      "label": "Shropshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000052": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000052",
+      "label": "Cornwall",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000053": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000053",
+      "label": "Isles of Scilly",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000054": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000054",
+      "label": "Wiltshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000055": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000055",
+      "label": "Bedford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000056": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000056",
+      "label": "Central Bedfordshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000057": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000057",
+      "label": "Northumberland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000058": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000058",
+      "label": "Bournemouth, Christchurch and Poole",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000059": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000059",
+      "label": "Dorset",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000060": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000060",
+      "label": "Buckinghamshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000061": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000061",
+      "label": "North Northamptonshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000062": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000062",
+      "label": "West Northamptonshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000063": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000063",
+      "label": "Cumberland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000064": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000064",
+      "label": "Westmorland and Furness",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000065": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000065",
+      "label": "North Yorkshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E06000066": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E06000066",
+      "label": "Somerset",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000008": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000008",
+      "label": "Cambridge",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000009": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000009",
+      "label": "East Cambridgeshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000010": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000010",
+      "label": "Fenland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000011": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000011",
+      "label": "Huntingdonshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000012": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000012",
+      "label": "South Cambridgeshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000032": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000032",
+      "label": "Amber Valley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000033": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000033",
+      "label": "Bolsover",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000034": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000034",
+      "label": "Chesterfield",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000035": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000035",
+      "label": "Derbyshire Dales",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000036": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000036",
+      "label": "Erewash",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000037": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000037",
+      "label": "High Peak",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000038": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000038",
+      "label": "North East Derbyshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000039": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000039",
+      "label": "South Derbyshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000040": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000040",
+      "label": "East Devon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000041": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000041",
+      "label": "Exeter",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000042": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000042",
+      "label": "Mid Devon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000043": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000043",
+      "label": "North Devon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000044": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000044",
+      "label": "South Hams",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000045": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000045",
+      "label": "Teignbridge",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000046": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000046",
+      "label": "Torridge",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000047": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000047",
+      "label": "West Devon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000061": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000061",
+      "label": "Eastbourne",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000062": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000062",
+      "label": "Hastings",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000063": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000063",
+      "label": "Lewes",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000064": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000064",
+      "label": "Rother",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000065": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000065",
+      "label": "Wealden",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000066": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000066",
+      "label": "Basildon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000067": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000067",
+      "label": "Braintree",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000068": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000068",
+      "label": "Brentwood",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000069": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000069",
+      "label": "Castle Point",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000070": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000070",
+      "label": "Chelmsford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000071": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000071",
+      "label": "Colchester",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000072": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000072",
+      "label": "Epping Forest",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000073": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000073",
+      "label": "Harlow",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000074": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000074",
+      "label": "Maldon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000075": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000075",
+      "label": "Rochford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000076": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000076",
+      "label": "Tendring",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000077": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000077",
+      "label": "Uttlesford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000078": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000078",
+      "label": "Cheltenham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000079": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000079",
+      "label": "Cotswold",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000080": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000080",
+      "label": "Forest of Dean",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000081": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000081",
+      "label": "Gloucester",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000082": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000082",
+      "label": "Stroud",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000083": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000083",
+      "label": "Tewkesbury",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000084": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000084",
+      "label": "Basingstoke and Deane",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000085": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000085",
+      "label": "East Hampshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000086": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000086",
+      "label": "Eastleigh",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000087": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000087",
+      "label": "Fareham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000088": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000088",
+      "label": "Gosport",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000089": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000089",
+      "label": "Hart",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000090": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000090",
+      "label": "Havant",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000091": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000091",
+      "label": "New Forest",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000092": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000092",
+      "label": "Rushmoor",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000093": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000093",
+      "label": "Test Valley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000094": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000094",
+      "label": "Winchester",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000095": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000095",
+      "label": "Broxbourne",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000096": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000096",
+      "label": "Dacorum",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000098": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000098",
+      "label": "Hertsmere",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000099": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000099",
+      "label": "North Hertfordshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000102": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000102",
+      "label": "Three Rivers",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000103": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000103",
+      "label": "Watford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000105": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000105",
+      "label": "Ashford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000106": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000106",
+      "label": "Canterbury",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000107": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000107",
+      "label": "Dartford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000108": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000108",
+      "label": "Dover",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000109": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000109",
+      "label": "Gravesham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000110": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000110",
+      "label": "Maidstone",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000111": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000111",
+      "label": "Sevenoaks",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000112": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000112",
+      "label": "Folkestone and Hythe",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000113": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000113",
+      "label": "Swale",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000114": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000114",
+      "label": "Thanet",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000115": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000115",
+      "label": "Tonbridge and Malling",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000116": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000116",
+      "label": "Tunbridge Wells",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000117": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000117",
+      "label": "Burnley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000118": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000118",
+      "label": "Chorley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000119": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000119",
+      "label": "Fylde",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000120": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000120",
+      "label": "Hyndburn",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000121": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000121",
+      "label": "Lancaster",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000122": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000122",
+      "label": "Pendle",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000123": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000123",
+      "label": "Preston",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000124": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000124",
+      "label": "Ribble Valley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000125": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000125",
+      "label": "Rossendale",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000126": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000126",
+      "label": "South Ribble",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000127": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000127",
+      "label": "West Lancashire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000128": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000128",
+      "label": "Wyre",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000129": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000129",
+      "label": "Blaby",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000130": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000130",
+      "label": "Charnwood",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000131": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000131",
+      "label": "Harborough",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000132": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000132",
+      "label": "Hinckley and Bosworth",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000133": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000133",
+      "label": "Melton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000134": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000134",
+      "label": "North West Leicestershire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000135": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000135",
+      "label": "Oadby and Wigston",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000136": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000136",
+      "label": "Boston",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000137": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000137",
+      "label": "East Lindsey",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000138": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000138",
+      "label": "Lincoln",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000139": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000139",
+      "label": "North Kesteven",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000140": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000140",
+      "label": "South Holland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000141": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000141",
+      "label": "South Kesteven",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000142": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000142",
+      "label": "West Lindsey",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000143": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000143",
+      "label": "Breckland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000144": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000144",
+      "label": "Broadland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000145": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000145",
+      "label": "Great Yarmouth",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000146": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000146",
+      "label": "King's Lynn and West Norfolk",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000147": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000147",
+      "label": "North Norfolk",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000148": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000148",
+      "label": "Norwich",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000149": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000149",
+      "label": "South Norfolk",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000170": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000170",
+      "label": "Ashfield",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000171": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000171",
+      "label": "Bassetlaw",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000172": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000172",
+      "label": "Broxtowe",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000173": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000173",
+      "label": "Gedling",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000174": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000174",
+      "label": "Mansfield",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000175": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000175",
+      "label": "Newark and Sherwood",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000176": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000176",
+      "label": "Rushcliffe",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000177": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000177",
+      "label": "Cherwell",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000178": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000178",
+      "label": "Oxford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000179": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000179",
+      "label": "South Oxfordshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000180": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000180",
+      "label": "Vale of White Horse",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000181": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000181",
+      "label": "West Oxfordshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000192": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000192",
+      "label": "Cannock Chase",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000193": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000193",
+      "label": "East Staffordshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000194": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000194",
+      "label": "Lichfield",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000195": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000195",
+      "label": "Newcastle-under-Lyme",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000196": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000196",
+      "label": "South Staffordshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000197": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000197",
+      "label": "Stafford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000198": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000198",
+      "label": "Staffordshire Moorlands",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000199": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000199",
+      "label": "Tamworth",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000200": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000200",
+      "label": "Babergh",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000202": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000202",
+      "label": "Ipswich",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000203": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000203",
+      "label": "Mid Suffolk",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000207": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000207",
+      "label": "Elmbridge",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000208": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000208",
+      "label": "Epsom and Ewell",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000209": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000209",
+      "label": "Guildford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000210": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000210",
+      "label": "Mole Valley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000211": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000211",
+      "label": "Reigate and Banstead",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000212": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000212",
+      "label": "Runnymede",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000213": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000213",
+      "label": "Spelthorne",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000214": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000214",
+      "label": "Surrey Heath",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000215": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000215",
+      "label": "Tandridge",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000216": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000216",
+      "label": "Waverley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000217": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000217",
+      "label": "Woking",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000218": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000218",
+      "label": "North Warwickshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000219": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000219",
+      "label": "Nuneaton and Bedworth",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000220": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000220",
+      "label": "Rugby",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000221": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000221",
+      "label": "Stratford-on-Avon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000222": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000222",
+      "label": "Warwick",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000223": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000223",
+      "label": "Adur",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000224": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000224",
+      "label": "Arun",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000225": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000225",
+      "label": "Chichester",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000226": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000226",
+      "label": "Crawley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000227": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000227",
+      "label": "Horsham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000228": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000228",
+      "label": "Mid Sussex",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000229": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000229",
+      "label": "Worthing",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000234": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000234",
+      "label": "Bromsgrove",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000235": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000235",
+      "label": "Malvern Hills",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000236": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000236",
+      "label": "Redditch",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000237": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000237",
+      "label": "Worcester",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000238": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000238",
+      "label": "Wychavon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000239": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000239",
+      "label": "Wyre Forest",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000240": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000240",
+      "label": "St Albans",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000241": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000241",
+      "label": "Welwyn Hatfield",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000242": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000242",
+      "label": "East Hertfordshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000243": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000243",
+      "label": "Stevenage",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000244": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000244",
+      "label": "East Suffolk",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E07000245": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E07000245",
+      "label": "West Suffolk",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000001": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000001",
+      "label": "Bolton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000002": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000002",
+      "label": "Bury",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000003": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000003",
+      "label": "Manchester",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000004": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000004",
+      "label": "Oldham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000005": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000005",
+      "label": "Rochdale",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000006": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000006",
+      "label": "Salford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000007": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000007",
+      "label": "Stockport",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000008": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000008",
+      "label": "Tameside",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000009": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000009",
+      "label": "Trafford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000010": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000010",
+      "label": "Wigan",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000011": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000011",
+      "label": "Knowsley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000012": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000012",
+      "label": "Liverpool",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000013": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000013",
+      "label": "St. Helens",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000014": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000014",
+      "label": "Sefton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000015": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000015",
+      "label": "Wirral",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000016": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000016",
+      "label": "Barnsley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000017": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000017",
+      "label": "Doncaster",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000018": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000018",
+      "label": "Rotherham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000019": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000019",
+      "label": "Sheffield",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000021": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000021",
+      "label": "Newcastle upon Tyne",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000022": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000022",
+      "label": "North Tyneside",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000023": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000023",
+      "label": "South Tyneside",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000024": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000024",
+      "label": "Sunderland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000025": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000025",
+      "label": "Birmingham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000026": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000026",
+      "label": "Coventry",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000027": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000027",
+      "label": "Dudley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000028": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000028",
+      "label": "Sandwell",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000029": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000029",
+      "label": "Solihull",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000030": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000030",
+      "label": "Walsall",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000031": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000031",
+      "label": "Wolverhampton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000032": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000032",
+      "label": "Bradford",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000033": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000033",
+      "label": "Calderdale",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000034": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000034",
+      "label": "Kirklees",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000035": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000035",
+      "label": "Leeds",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000036": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000036",
+      "label": "Wakefield",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E08000037": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E08000037",
+      "label": "Gateshead",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000001": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000001",
+      "label": "City of London",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000002": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000002",
+      "label": "Barking and Dagenham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000003": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000003",
+      "label": "Barnet",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000004": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000004",
+      "label": "Bexley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000005": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000005",
+      "label": "Brent",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000006": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000006",
+      "label": "Bromley",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000007": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000007",
+      "label": "Camden",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000008": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000008",
+      "label": "Croydon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000009": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000009",
+      "label": "Ealing",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000010": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000010",
+      "label": "Enfield",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000011": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000011",
+      "label": "Greenwich",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000012": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000012",
+      "label": "Hackney",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000013": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000013",
+      "label": "Hammersmith and Fulham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000014": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000014",
+      "label": "Haringey",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000015": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000015",
+      "label": "Harrow",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000016": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000016",
+      "label": "Havering",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000017": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000017",
+      "label": "Hillingdon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000018": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000018",
+      "label": "Hounslow",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000019": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000019",
+      "label": "Islington",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000020": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000020",
+      "label": "Kensington and Chelsea",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000021": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000021",
+      "label": "Kingston upon Thames",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000022": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000022",
+      "label": "Lambeth",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000023": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000023",
+      "label": "Lewisham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000024": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000024",
+      "label": "Merton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000025": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000025",
+      "label": "Newham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000026": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000026",
+      "label": "Redbridge",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000027": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000027",
+      "label": "Richmond upon Thames",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000028": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000028",
+      "label": "Southwark",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000029": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000029",
+      "label": "Sutton",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000030": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000030",
+      "label": "Tower Hamlets",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000031": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000031",
+      "label": "Waltham Forest",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000032": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000032",
+      "label": "Wandsworth",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "E09000033": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "E09000033",
+      "label": "Westminster",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000001": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000001",
+      "label": "Antrim and Newtownabbey",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000002": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000002",
+      "label": "Armagh City, Banbridge and Craigavon",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000003": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000003",
+      "label": "Belfast",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000004": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000004",
+      "label": "Causeway Coast and Glens",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000005": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000005",
+      "label": "Derry City and Strabane",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000006": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000006",
+      "label": "Fermanagh and Omagh",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000007": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000007",
+      "label": "Lisburn and Castlereagh",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000008": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000008",
+      "label": "Mid and East Antrim",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000009": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000009",
+      "label": "Mid Ulster",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000010": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000010",
+      "label": "Newry, Mourne and Down",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "N09000011": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "N09000011",
+      "label": "Ards and North Down",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000005": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000005",
+      "label": "Clackmannanshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000006": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000006",
+      "label": "Dumfries and Galloway",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000008": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000008",
+      "label": "East Ayrshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000010": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000010",
+      "label": "East Lothian",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000011": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000011",
+      "label": "East Renfrewshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000013": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000013",
+      "label": "Na h-Eileanan Siar",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000014": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000014",
+      "label": "Falkirk",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000017": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000017",
+      "label": "Highland",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000018": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000018",
+      "label": "Inverclyde",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000019": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000019",
+      "label": "Midlothian",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000020": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000020",
+      "label": "Moray",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000021": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000021",
+      "label": "North Ayrshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000023": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000023",
+      "label": "Orkney Islands",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000026": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000026",
+      "label": "Scottish Borders",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000027": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000027",
+      "label": "Shetland Islands",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000028": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000028",
+      "label": "South Ayrshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000029": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000029",
+      "label": "South Lanarkshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000030": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000030",
+      "label": "Stirling",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000033": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000033",
+      "label": "Aberdeen City",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000034": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000034",
+      "label": "Aberdeenshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000035": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000035",
+      "label": "Argyll and Bute",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000036": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000036",
+      "label": "City of Edinburgh",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000038": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000038",
+      "label": "Renfrewshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000039": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000039",
+      "label": "West Dunbartonshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000040": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000040",
+      "label": "West Lothian",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000041": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000041",
+      "label": "Angus",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000042": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000042",
+      "label": "Dundee City",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000045": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000045",
+      "label": "East Dunbartonshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000047": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000047",
+      "label": "Fife",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000048": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000048",
+      "label": "Perth and Kinross",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000049": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000049",
+      "label": "Glasgow City",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "S12000050": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "S12000050",
+      "label": "North Lanarkshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000001": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000001",
+      "label": "Isle of Anglesey",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000002": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000002",
+      "label": "Gwynedd",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000003": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000003",
+      "label": "Conwy",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000004": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000004",
+      "label": "Denbighshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000005": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000005",
+      "label": "Flintshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000006": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000006",
+      "label": "Wrexham",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000008": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000008",
+      "label": "Ceredigion",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000009": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000009",
+      "label": "Pembrokeshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000010": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000010",
+      "label": "Carmarthenshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000011": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000011",
+      "label": "Swansea",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000012": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000012",
+      "label": "Neath Port Talbot",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000013": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000013",
+      "label": "Bridgend",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000014": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000014",
+      "label": "Vale of Glamorgan",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000015": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000015",
+      "label": "Cardiff",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000016": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000016",
+      "label": "Rhondda Cynon Taf",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000018": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000018",
+      "label": "Caerphilly",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000019": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000019",
+      "label": "Blaenau Gwent",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000020": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000020",
+      "label": "Torfaen",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000021": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000021",
+      "label": "Monmouthshire",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000022": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000022",
+      "label": "Newport",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000023": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000023",
+      "label": "Powys",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    },
+    "W06000024": {
+      "boundary": "local authorities: district / unitary (as of April 2023)",
+      "id": "W06000024",
+      "label": "Merthyr Tydfil",
+      "type": "local_authority_district",
+      "version": "nomis_lad_april2023"
+    }
+  },
+  "sources": {
+    "aps-def.json": {
+      "bytes": 3112,
+      "file": "aps-def.json",
+      "retrieved_utc": "2026-09-13T23:36:50.582911+00:00",
+      "sha256": "715a9f59820afb5272a3d28bc8a6b632a705d25fa2e0f1f4a1bec4f549f2dbaa",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_17_5.def.sdmx.json"
+    },
+    "aps-measures.json": {
+      "bytes": 2051,
+      "file": "aps-measures.json",
+      "retrieved_utc": "2026-09-13T23:37:45.147105+00:00",
+      "sha256": "86ddf957b14df17e108150079f7b375a20d1ad9d10dbcc8b049b1f4a7b25df6e",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_17_5/measures.def.sdmx.json"
+    },
+    "aps-periods.json": {
+      "bytes": 42052,
+      "file": "aps-periods.json",
+      "retrieved_utc": "2026-09-13T23:37:43.522092+00:00",
+      "sha256": "9ea7eb0a0d8c821e2fd58b5828cd0285a8cc8a7fc09d66a39813891ba9f04039",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_17_5/time.def.sdmx.json"
+    },
+    "aps-variables.json": {
+      "bytes": 556216,
+      "file": "aps-variables.json",
+      "retrieved_utc": "2026-09-13T23:36:50.916432+00:00",
+      "sha256": "7fbec896c95031a22f531e35379d9b27feb498a6e50631347021a4fe29b7ef62",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_17_5/variable.def.sdmx.json"
+    },
+    "aps.csv": {
+      "bytes": 1492765,
+      "file": "aps.csv",
+      "retrieved_utc": "2026-09-13T23:38:34.038000+00:00",
+      "sha256": "e983aa946c1ea98d7a8a513746e7fc7abf4c9937fc46bda867d0c283bf97198d",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_17_5.data.csv?geography=TYPE424,2092957697&date=2026-03&variable=45,83,111&measures=20599,21001,21002,21003"
+    },
+    "cc-def.json": {
+      "bytes": 2938,
+      "file": "cc-def.json",
+      "retrieved_utc": "2026-09-13T23:36:50.754136+00:00",
+      "sha256": "fcf2bd5710591fe88a0d9879f18fa7956a399acc15de02e37ca963f5f3938696",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_162_1.def.sdmx.json"
+    },
+    "cc-periods.json": {
+      "bytes": 113914,
+      "file": "cc-periods.json",
+      "retrieved_utc": "2026-09-13T23:37:43.715165+00:00",
+      "sha256": "5b830332e453095830a725cdafbac5bf79a8313cf4dbc31a609d8e6f9602ea19",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_162_1/time.def.sdmx.json"
+    },
+    "claimants.csv": {
+      "bytes": 603464,
+      "file": "claimants.csv",
+      "retrieved_utc": "2026-09-13T23:38:35.564633+00:00",
+      "sha256": "963e43f719b0b957e81398cfdeb691e9ef1347193465825a023c51d4f6ef36df",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_162_1.data.csv?geography=TYPE424,2092957697&date=2026-07,2025-07&gender=0&age=0&measure=1,2&measures=20100"
+    },
+    "districts.json": {
+      "bytes": 126778,
+      "file": "districts.json",
+      "retrieved_utc": "2026-09-13T23:37:45.022314+00:00",
+      "sha256": "065e1e64f16af55f9575c93bc5247140ca6408f1db0da432213707fe0ac7871e",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_17_5/geography/TYPE424.def.sdmx.json"
+    },
+    "geography.json": {
+      "bytes": 2784,
+      "file": "geography.json",
+      "retrieved_utc": "2026-09-13T23:36:51.099471+00:00",
+      "sha256": "6b7e9a7c4ff4ee0a6e8b17c317d9e914e24d0adc9b883c0d8b02e3afcc334c06",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_17_5/geography.def.sdmx.json?type=TYPE424"
+    },
+    "unemployment-def.json": {
+      "bytes": 2554,
+      "file": "unemployment-def.json",
+      "retrieved_utc": "2026-09-13T23:39:31.639212+00:00",
+      "sha256": "773d1d44b7dd4a1091d8e9cca2272ea750d4d1b2284ff4cea7817d02d507145f",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_127_1.def.sdmx.json"
+    },
+    "unemployment-items.json": {
+      "bytes": 1149,
+      "file": "unemployment-items.json",
+      "retrieved_utc": "2026-09-13T23:39:48.082373+00:00",
+      "sha256": "baf3546e052d47a74e7152f6dafbcb2f2d86b25a0ef7f6abfb59eb249316a020",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_127_1/item.def.sdmx.json"
+    },
+    "unemployment-measures.json": {
+      "bytes": 1367,
+      "file": "unemployment-measures.json",
+      "retrieved_utc": "2026-09-13T23:39:31.726808+00:00",
+      "sha256": "80b1348b95d5c554b12135e31b03493cc06aa4a705b47e39028257d3cdcd72a8",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_127_1/measures.def.sdmx.json"
+    },
+    "unemployment-periods.json": {
+      "bytes": 40950,
+      "file": "unemployment-periods.json",
+      "retrieved_utc": "2026-09-13T23:39:31.884004+00:00",
+      "sha256": "f40471e1da8e8923b8f70718d24daffe33d57901e9a2143518f55fdd68e476ce",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_127_1/time.def.sdmx.json"
+    },
+    "unemployment.csv": {
+      "bytes": 232531,
+      "file": "unemployment.csv",
+      "retrieved_utc": "2026-09-13T23:40:11.591231+00:00",
+      "sha256": "7e895f4fb7db48a69cddfb77712a65d45c91aeb5892240ef24fa38ad66df8c1d",
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_127_1.data.csv?geography=TYPE424,2092957697&date=2026-03&item=2&measures=20100,20701"
+    },
+    "cc-districts.json": {
+      "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_162_1/geography/TYPE424.def.sdmx.json",
+      "bytes": 130850,
+      "retrieved_utc": "2026-09-13T23:58:28.881905+00:00",
+      "sha256": "223dda000970b8cb883da07508700996f1d44f6a9f65373237c80c99421e4d99"
+    }
+  },
+  "version": "nomis_context_2026-09-14"
+}

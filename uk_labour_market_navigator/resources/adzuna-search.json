@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Explicit optional Adzuna search (transient, not official evidence)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "role", "place", "distance_km", "max_days_old", "send_query_confirmed", "permitted_use_confirmed"],
+  "properties": {
+    "schema_version": {"const": 1, "type": "integer"},
+    "role": {"type": "string", "minLength": 1, "maxLength": 120},
+    "place": {"type": "string", "minLength": 1, "maxLength": 120},
+    "distance_km": {"type": "integer", "minimum": 1, "maximum": 100},
+    "max_days_old": {"type": "integer", "minimum": 1, "maximum": 30},
+    "send_query_confirmed": {"const": true, "type": "boolean"},
+    "permitted_use_confirmed": {"const": true, "type": "boolean"}
+  }
+}

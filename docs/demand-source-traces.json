@@ -1,0 +1,34 @@
+{
+  "method": "Independent XML cell inspection, not the production extractor or runtime pack",
+  "table": "Table 5",
+  "cells": {
+    "20906": {
+      "C": "Cambridge",
+      "D": "2134",
+      "E": "Programmers and software development professionals",
+      "F": "E07000008",
+      "AR": "705"
+    },
+    "53697": {
+      "C": "Belfast",
+      "D": "2134",
+      "E": "Programmers and software development professionals",
+      "F": "N09000003",
+      "AR": "489"
+    },
+    "57354": {
+      "C": "City of Edinburgh",
+      "D": "2134",
+      "E": "Programmers and software development professionals",
+      "F": "S12000036",
+      "AR": "455"
+    },
+    "71999": {
+      "C": "Reading",
+      "D": "2134",
+      "E": "Programmers and software development professionals",
+      "F": "E06000038",
+      "AR": "338"
+    }
+  }
+}

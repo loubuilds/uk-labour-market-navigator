@@ -1,0 +1,2734 @@
+{
+  "schema_version": 1,
+  "version": "ons_textkernel_2026-08-21",
+  "snapshot_sha256": "f1d5ee0a45de886565904a7ea2b7788a80c152d7dd29cdd930e33e2aa0219913",
+  "workbook_sha256": "59876a7e480e5b654188401cb1466f2a0ca72f404c31a7c7c987f9bb567cce4e",
+  "source_page": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourdemandvolumesbystandardoccupationclassificationsoc2020uk",
+  "source_url": "https://www.ons.gov.uk/file?uri=%2Femploymentandlabourmarket%2Fpeopleinwork%2Femploymentandemployeetypes%2Fdatasets%2Flabourdemandvolumesbystandardoccupationclassificationsoc2020uk%2Fjanuary2017tojuly2026%2Flabourdemandbyoccupation.xlsx",
+  "file": "labourdemandbyoccupation.xlsx",
+  "places": {
+    "E07000032": {
+      "id": "E07000032",
+      "label": "Amber Valley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000170": {
+      "id": "E07000170",
+      "label": "Ashfield",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000171": {
+      "id": "E07000171",
+      "label": "Bassetlaw",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000033": {
+      "id": "E07000033",
+      "label": "Bolsover",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000172": {
+      "id": "E07000172",
+      "label": "Broxtowe",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000034": {
+      "id": "E07000034",
+      "label": "Chesterfield",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000015": {
+      "id": "E06000015",
+      "label": "Derby",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000035": {
+      "id": "E07000035",
+      "label": "Derbyshire Dales",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000036": {
+      "id": "E07000036",
+      "label": "Erewash",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000173": {
+      "id": "E07000173",
+      "label": "Gedling",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000037": {
+      "id": "E07000037",
+      "label": "High Peak",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000174": {
+      "id": "E07000174",
+      "label": "Mansfield",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000175": {
+      "id": "E07000175",
+      "label": "Newark and Sherwood",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000038": {
+      "id": "E07000038",
+      "label": "North East Derbyshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000018": {
+      "id": "E06000018",
+      "label": "Nottingham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000176": {
+      "id": "E07000176",
+      "label": "Rushcliffe",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000039": {
+      "id": "E07000039",
+      "label": "South Derbyshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000129": {
+      "id": "E07000129",
+      "label": "Blaby",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000130": {
+      "id": "E07000130",
+      "label": "Charnwood",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000131": {
+      "id": "E07000131",
+      "label": "Harborough",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000132": {
+      "id": "E07000132",
+      "label": "Hinckley and Bosworth",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000016": {
+      "id": "E06000016",
+      "label": "Leicester",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000133": {
+      "id": "E07000133",
+      "label": "Melton",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000061": {
+      "id": "E06000061",
+      "label": "North Northamptonshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000134": {
+      "id": "E07000134",
+      "label": "North West Leicestershire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000135": {
+      "id": "E07000135",
+      "label": "Oadby and Wigston",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000017": {
+      "id": "E06000017",
+      "label": "Rutland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000062": {
+      "id": "E06000062",
+      "label": "West Northamptonshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000136": {
+      "id": "E07000136",
+      "label": "Boston",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000137": {
+      "id": "E07000137",
+      "label": "East Lindsey",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000138": {
+      "id": "E07000138",
+      "label": "Lincoln",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000139": {
+      "id": "E07000139",
+      "label": "North Kesteven",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000140": {
+      "id": "E07000140",
+      "label": "South Holland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000141": {
+      "id": "E07000141",
+      "label": "South Kesteven",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000142": {
+      "id": "E07000142",
+      "label": "West Lindsey",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000055": {
+      "id": "E06000055",
+      "label": "Bedford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000095": {
+      "id": "E07000095",
+      "label": "Broxbourne",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000056": {
+      "id": "E06000056",
+      "label": "Central Bedfordshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000096": {
+      "id": "E07000096",
+      "label": "Dacorum",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000242": {
+      "id": "E07000242",
+      "label": "East Hertfordshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000098": {
+      "id": "E07000098",
+      "label": "Hertsmere",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000032": {
+      "id": "E06000032",
+      "label": "Luton",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000099": {
+      "id": "E07000099",
+      "label": "North Hertfordshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000240": {
+      "id": "E07000240",
+      "label": "St Albans",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000243": {
+      "id": "E07000243",
+      "label": "Stevenage",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000102": {
+      "id": "E07000102",
+      "label": "Three Rivers",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000103": {
+      "id": "E07000103",
+      "label": "Watford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000241": {
+      "id": "E07000241",
+      "label": "Welwyn Hatfield",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000200": {
+      "id": "E07000200",
+      "label": "Babergh",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000143": {
+      "id": "E07000143",
+      "label": "Breckland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000144": {
+      "id": "E07000144",
+      "label": "Broadland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000008": {
+      "id": "E07000008",
+      "label": "Cambridge",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000009": {
+      "id": "E07000009",
+      "label": "East Cambridgeshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000244": {
+      "id": "E07000244",
+      "label": "East Suffolk",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000010": {
+      "id": "E07000010",
+      "label": "Fenland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000145": {
+      "id": "E07000145",
+      "label": "Great Yarmouth",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000011": {
+      "id": "E07000011",
+      "label": "Huntingdonshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000202": {
+      "id": "E07000202",
+      "label": "Ipswich",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000146": {
+      "id": "E07000146",
+      "label": "King's Lynn and West Norfolk",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000203": {
+      "id": "E07000203",
+      "label": "Mid Suffolk",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000147": {
+      "id": "E07000147",
+      "label": "North Norfolk",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000148": {
+      "id": "E07000148",
+      "label": "Norwich",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000031": {
+      "id": "E06000031",
+      "label": "Peterborough",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000012": {
+      "id": "E07000012",
+      "label": "South Cambridgeshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000149": {
+      "id": "E07000149",
+      "label": "South Norfolk",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000245": {
+      "id": "E07000245",
+      "label": "West Suffolk",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000066": {
+      "id": "E07000066",
+      "label": "Basildon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000067": {
+      "id": "E07000067",
+      "label": "Braintree",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000068": {
+      "id": "E07000068",
+      "label": "Brentwood",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000069": {
+      "id": "E07000069",
+      "label": "Castle Point",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000070": {
+      "id": "E07000070",
+      "label": "Chelmsford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000071": {
+      "id": "E07000071",
+      "label": "Colchester",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000072": {
+      "id": "E07000072",
+      "label": "Epping Forest",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000073": {
+      "id": "E07000073",
+      "label": "Harlow",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000074": {
+      "id": "E07000074",
+      "label": "Maldon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000075": {
+      "id": "E07000075",
+      "label": "Rochford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000033": {
+      "id": "E06000033",
+      "label": "Southend-on-Sea",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000076": {
+      "id": "E07000076",
+      "label": "Tendring",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000034": {
+      "id": "E06000034",
+      "label": "Thurrock",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000077": {
+      "id": "E07000077",
+      "label": "Uttlesford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000037": {
+      "id": "E08000037",
+      "label": "Gateshead",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000021": {
+      "id": "E08000021",
+      "label": "Newcastle upon Tyne",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000022": {
+      "id": "E08000022",
+      "label": "North Tyneside",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000057": {
+      "id": "E06000057",
+      "label": "Northumberland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000023": {
+      "id": "E08000023",
+      "label": "South Tyneside",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000024": {
+      "id": "E08000024",
+      "label": "Sunderland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000047": {
+      "id": "E06000047",
+      "label": "County Durham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000005": {
+      "id": "E06000005",
+      "label": "Darlington",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000001": {
+      "id": "E06000001",
+      "label": "Hartlepool",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000002": {
+      "id": "E06000002",
+      "label": "Middlesbrough",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000003": {
+      "id": "E06000003",
+      "label": "Redcar and Cleveland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000004": {
+      "id": "E06000004",
+      "label": "Stockton-on-Tees",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000049": {
+      "id": "E06000049",
+      "label": "Cheshire East",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000050": {
+      "id": "E06000050",
+      "label": "Cheshire West and Chester",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000007": {
+      "id": "E06000007",
+      "label": "Warrington",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000063": {
+      "id": "E06000063",
+      "label": "Cumberland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000064": {
+      "id": "E06000064",
+      "label": "Westmorland and Furness",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000001": {
+      "id": "E08000001",
+      "label": "Bolton",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000002": {
+      "id": "E08000002",
+      "label": "Bury",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000003": {
+      "id": "E08000003",
+      "label": "Manchester",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000004": {
+      "id": "E08000004",
+      "label": "Oldham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000005": {
+      "id": "E08000005",
+      "label": "Rochdale",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000006": {
+      "id": "E08000006",
+      "label": "Salford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000007": {
+      "id": "E08000007",
+      "label": "Stockport",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000008": {
+      "id": "E08000008",
+      "label": "Tameside",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000009": {
+      "id": "E08000009",
+      "label": "Trafford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000010": {
+      "id": "E08000010",
+      "label": "Wigan",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000008": {
+      "id": "E06000008",
+      "label": "Blackburn with Darwen",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000009": {
+      "id": "E06000009",
+      "label": "Blackpool",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000117": {
+      "id": "E07000117",
+      "label": "Burnley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000118": {
+      "id": "E07000118",
+      "label": "Chorley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000119": {
+      "id": "E07000119",
+      "label": "Fylde",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000120": {
+      "id": "E07000120",
+      "label": "Hyndburn",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000121": {
+      "id": "E07000121",
+      "label": "Lancaster",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000122": {
+      "id": "E07000122",
+      "label": "Pendle",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000123": {
+      "id": "E07000123",
+      "label": "Preston",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000124": {
+      "id": "E07000124",
+      "label": "Ribble Valley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000125": {
+      "id": "E07000125",
+      "label": "Rossendale",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000126": {
+      "id": "E07000126",
+      "label": "South Ribble",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000127": {
+      "id": "E07000127",
+      "label": "West Lancashire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000128": {
+      "id": "E07000128",
+      "label": "Wyre",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000006": {
+      "id": "E06000006",
+      "label": "Halton",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000011": {
+      "id": "E08000011",
+      "label": "Knowsley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000012": {
+      "id": "E08000012",
+      "label": "Liverpool",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000014": {
+      "id": "E08000014",
+      "label": "Sefton",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000013": {
+      "id": "E08000013",
+      "label": "St. Helens",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000015": {
+      "id": "E08000015",
+      "label": "Wirral",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000001": {
+      "id": "N09000001",
+      "label": "Antrim and Newtownabbey",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000011": {
+      "id": "N09000011",
+      "label": "Ards and North Down",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000002": {
+      "id": "N09000002",
+      "label": "Armagh City, Banbridge and Craigavon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000003": {
+      "id": "N09000003",
+      "label": "Belfast",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000004": {
+      "id": "N09000004",
+      "label": "Causeway Coast and Glens",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000005": {
+      "id": "N09000005",
+      "label": "Derry City and Strabane",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000006": {
+      "id": "N09000006",
+      "label": "Fermanagh and Omagh",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000007": {
+      "id": "N09000007",
+      "label": "Lisburn and Castlereagh",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000009": {
+      "id": "N09000009",
+      "label": "Mid Ulster",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000008": {
+      "id": "N09000008",
+      "label": "Mid and East Antrim",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "N09000010": {
+      "id": "N09000010",
+      "label": "Newry, Mourne and Down",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000041": {
+      "id": "S12000041",
+      "label": "Angus",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000036": {
+      "id": "S12000036",
+      "label": "City of Edinburgh",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000005": {
+      "id": "S12000005",
+      "label": "Clackmannanshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000042": {
+      "id": "S12000042",
+      "label": "Dundee City",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000010": {
+      "id": "S12000010",
+      "label": "East Lothian",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000014": {
+      "id": "S12000014",
+      "label": "Falkirk",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000047": {
+      "id": "S12000047",
+      "label": "Fife",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000019": {
+      "id": "S12000019",
+      "label": "Midlothian",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000048": {
+      "id": "S12000048",
+      "label": "Perth and Kinross",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000030": {
+      "id": "S12000030",
+      "label": "Stirling",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000040": {
+      "id": "S12000040",
+      "label": "West Lothian",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000035": {
+      "id": "S12000035",
+      "label": "Argyll and Bute",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000017": {
+      "id": "S12000017",
+      "label": "Highland",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000020": {
+      "id": "S12000020",
+      "label": "Moray",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000013": {
+      "id": "S12000013",
+      "label": "Na h-Eileanan Siar",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000021": {
+      "id": "S12000021",
+      "label": "North Ayrshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000023": {
+      "id": "S12000023",
+      "label": "Orkney Islands",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000027": {
+      "id": "S12000027",
+      "label": "Shetland Islands",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000033": {
+      "id": "S12000033",
+      "label": "Aberdeen City",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000034": {
+      "id": "S12000034",
+      "label": "Aberdeenshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000006": {
+      "id": "S12000006",
+      "label": "Dumfries and Galloway",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000008": {
+      "id": "S12000008",
+      "label": "East Ayrshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000026": {
+      "id": "S12000026",
+      "label": "Scottish Borders",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000028": {
+      "id": "S12000028",
+      "label": "South Ayrshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000029": {
+      "id": "S12000029",
+      "label": "South Lanarkshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000045": {
+      "id": "S12000045",
+      "label": "East Dunbartonshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000011": {
+      "id": "S12000011",
+      "label": "East Renfrewshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000049": {
+      "id": "S12000049",
+      "label": "Glasgow City",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000018": {
+      "id": "S12000018",
+      "label": "Inverclyde",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000050": {
+      "id": "S12000050",
+      "label": "North Lanarkshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000038": {
+      "id": "S12000038",
+      "label": "Renfrewshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "S12000039": {
+      "id": "S12000039",
+      "label": "West Dunbartonshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000036": {
+      "id": "E06000036",
+      "label": "Bracknell Forest",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000060": {
+      "id": "E06000060",
+      "label": "Buckinghamshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000177": {
+      "id": "E07000177",
+      "label": "Cherwell",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000042": {
+      "id": "E06000042",
+      "label": "Milton Keynes",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000178": {
+      "id": "E07000178",
+      "label": "Oxford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000038": {
+      "id": "E06000038",
+      "label": "Reading",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000039": {
+      "id": "E06000039",
+      "label": "Slough",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000179": {
+      "id": "E07000179",
+      "label": "South Oxfordshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000180": {
+      "id": "E07000180",
+      "label": "Vale of White Horse",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000037": {
+      "id": "E06000037",
+      "label": "West Berkshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000181": {
+      "id": "E07000181",
+      "label": "West Oxfordshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000040": {
+      "id": "E06000040",
+      "label": "Windsor and Maidenhead",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000041": {
+      "id": "E06000041",
+      "label": "Wokingham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000084": {
+      "id": "E07000084",
+      "label": "Basingstoke and Deane",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000085": {
+      "id": "E07000085",
+      "label": "East Hampshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000086": {
+      "id": "E07000086",
+      "label": "Eastleigh",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000087": {
+      "id": "E07000087",
+      "label": "Fareham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000088": {
+      "id": "E07000088",
+      "label": "Gosport",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000089": {
+      "id": "E07000089",
+      "label": "Hart",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000090": {
+      "id": "E07000090",
+      "label": "Havant",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000046": {
+      "id": "E06000046",
+      "label": "Isle of Wight",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000091": {
+      "id": "E07000091",
+      "label": "New Forest",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000044": {
+      "id": "E06000044",
+      "label": "Portsmouth",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000092": {
+      "id": "E07000092",
+      "label": "Rushmoor",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000045": {
+      "id": "E06000045",
+      "label": "Southampton",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000093": {
+      "id": "E07000093",
+      "label": "Test Valley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000094": {
+      "id": "E07000094",
+      "label": "Winchester",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000105": {
+      "id": "E07000105",
+      "label": "Ashford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000106": {
+      "id": "E07000106",
+      "label": "Canterbury",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000107": {
+      "id": "E07000107",
+      "label": "Dartford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000108": {
+      "id": "E07000108",
+      "label": "Dover",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000112": {
+      "id": "E07000112",
+      "label": "Folkestone and Hythe",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000109": {
+      "id": "E07000109",
+      "label": "Gravesham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000110": {
+      "id": "E07000110",
+      "label": "Maidstone",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000035": {
+      "id": "E06000035",
+      "label": "Medway",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000111": {
+      "id": "E07000111",
+      "label": "Sevenoaks",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000113": {
+      "id": "E07000113",
+      "label": "Swale",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000114": {
+      "id": "E07000114",
+      "label": "Thanet",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000115": {
+      "id": "E07000115",
+      "label": "Tonbridge and Malling",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000116": {
+      "id": "E07000116",
+      "label": "Tunbridge Wells",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000223": {
+      "id": "E07000223",
+      "label": "Adur",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000224": {
+      "id": "E07000224",
+      "label": "Arun",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000043": {
+      "id": "E06000043",
+      "label": "Brighton and Hove",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000225": {
+      "id": "E07000225",
+      "label": "Chichester",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000226": {
+      "id": "E07000226",
+      "label": "Crawley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000061": {
+      "id": "E07000061",
+      "label": "Eastbourne",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000207": {
+      "id": "E07000207",
+      "label": "Elmbridge",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000208": {
+      "id": "E07000208",
+      "label": "Epsom and Ewell",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000209": {
+      "id": "E07000209",
+      "label": "Guildford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000062": {
+      "id": "E07000062",
+      "label": "Hastings",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000227": {
+      "id": "E07000227",
+      "label": "Horsham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000063": {
+      "id": "E07000063",
+      "label": "Lewes",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000228": {
+      "id": "E07000228",
+      "label": "Mid Sussex",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000210": {
+      "id": "E07000210",
+      "label": "Mole Valley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000211": {
+      "id": "E07000211",
+      "label": "Reigate and Banstead",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000064": {
+      "id": "E07000064",
+      "label": "Rother",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000212": {
+      "id": "E07000212",
+      "label": "Runnymede",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000213": {
+      "id": "E07000213",
+      "label": "Spelthorne",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000214": {
+      "id": "E07000214",
+      "label": "Surrey Heath",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000215": {
+      "id": "E07000215",
+      "label": "Tandridge",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000216": {
+      "id": "E07000216",
+      "label": "Waverley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000065": {
+      "id": "E07000065",
+      "label": "Wealden",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000217": {
+      "id": "E07000217",
+      "label": "Woking",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000229": {
+      "id": "E07000229",
+      "label": "Worthing",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000052": {
+      "id": "E06000052",
+      "label": "Cornwall",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000053": {
+      "id": "E06000053",
+      "label": "Isles of Scilly",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000040": {
+      "id": "E07000040",
+      "label": "East Devon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000041": {
+      "id": "E07000041",
+      "label": "Exeter",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000042": {
+      "id": "E07000042",
+      "label": "Mid Devon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000043": {
+      "id": "E07000043",
+      "label": "North Devon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000026": {
+      "id": "E06000026",
+      "label": "Plymouth",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000044": {
+      "id": "E07000044",
+      "label": "South Hams",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000045": {
+      "id": "E07000045",
+      "label": "Teignbridge",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000027": {
+      "id": "E06000027",
+      "label": "Torbay",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000046": {
+      "id": "E07000046",
+      "label": "Torridge",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000047": {
+      "id": "E07000047",
+      "label": "West Devon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000058": {
+      "id": "E06000058",
+      "label": "Bournemouth, Christchurch and Poole",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000059": {
+      "id": "E06000059",
+      "label": "Dorset",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000066": {
+      "id": "E06000066",
+      "label": "Somerset",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000022": {
+      "id": "E06000022",
+      "label": "Bath and North East Somerset",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000023": {
+      "id": "E06000023",
+      "label": "Bristol, City of",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000078": {
+      "id": "E07000078",
+      "label": "Cheltenham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000079": {
+      "id": "E07000079",
+      "label": "Cotswold",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000080": {
+      "id": "E07000080",
+      "label": "Forest of Dean",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000081": {
+      "id": "E07000081",
+      "label": "Gloucester",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000024": {
+      "id": "E06000024",
+      "label": "North Somerset",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000025": {
+      "id": "E06000025",
+      "label": "South Gloucestershire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000082": {
+      "id": "E07000082",
+      "label": "Stroud",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000030": {
+      "id": "E06000030",
+      "label": "Swindon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000083": {
+      "id": "E07000083",
+      "label": "Tewkesbury",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000054": {
+      "id": "E06000054",
+      "label": "Wiltshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000015": {
+      "id": "W06000015",
+      "label": "Cardiff",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000005": {
+      "id": "W06000005",
+      "label": "Flintshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000021": {
+      "id": "W06000021",
+      "label": "Monmouthshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000022": {
+      "id": "W06000022",
+      "label": "Newport",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000023": {
+      "id": "W06000023",
+      "label": "Powys",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000014": {
+      "id": "W06000014",
+      "label": "Vale of Glamorgan",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000006": {
+      "id": "W06000006",
+      "label": "Wrexham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000019": {
+      "id": "W06000019",
+      "label": "Blaenau Gwent",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000013": {
+      "id": "W06000013",
+      "label": "Bridgend",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000018": {
+      "id": "W06000018",
+      "label": "Caerphilly",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000010": {
+      "id": "W06000010",
+      "label": "Carmarthenshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000008": {
+      "id": "W06000008",
+      "label": "Ceredigion",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000003": {
+      "id": "W06000003",
+      "label": "Conwy",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000004": {
+      "id": "W06000004",
+      "label": "Denbighshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000002": {
+      "id": "W06000002",
+      "label": "Gwynedd",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000001": {
+      "id": "W06000001",
+      "label": "Isle of Anglesey",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000024": {
+      "id": "W06000024",
+      "label": "Merthyr Tydfil",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000012": {
+      "id": "W06000012",
+      "label": "Neath Port Talbot",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000009": {
+      "id": "W06000009",
+      "label": "Pembrokeshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000016": {
+      "id": "W06000016",
+      "label": "Rhondda Cynon Taf",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000011": {
+      "id": "W06000011",
+      "label": "Swansea",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "W06000020": {
+      "id": "W06000020",
+      "label": "Torfaen",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000234": {
+      "id": "E07000234",
+      "label": "Bromsgrove",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000019": {
+      "id": "E06000019",
+      "label": "Herefordshire, County of",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000235": {
+      "id": "E07000235",
+      "label": "Malvern Hills",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000218": {
+      "id": "E07000218",
+      "label": "North Warwickshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000219": {
+      "id": "E07000219",
+      "label": "Nuneaton and Bedworth",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000236": {
+      "id": "E07000236",
+      "label": "Redditch",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000220": {
+      "id": "E07000220",
+      "label": "Rugby",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000221": {
+      "id": "E07000221",
+      "label": "Stratford-on-Avon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000222": {
+      "id": "E07000222",
+      "label": "Warwick",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000237": {
+      "id": "E07000237",
+      "label": "Worcester",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000238": {
+      "id": "E07000238",
+      "label": "Wychavon",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000239": {
+      "id": "E07000239",
+      "label": "Wyre Forest",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000192": {
+      "id": "E07000192",
+      "label": "Cannock Chase",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000193": {
+      "id": "E07000193",
+      "label": "East Staffordshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000194": {
+      "id": "E07000194",
+      "label": "Lichfield",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000195": {
+      "id": "E07000195",
+      "label": "Newcastle-under-Lyme",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000051": {
+      "id": "E06000051",
+      "label": "Shropshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000196": {
+      "id": "E07000196",
+      "label": "South Staffordshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000197": {
+      "id": "E07000197",
+      "label": "Stafford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000198": {
+      "id": "E07000198",
+      "label": "Staffordshire Moorlands",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000021": {
+      "id": "E06000021",
+      "label": "Stoke-on-Trent",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E07000199": {
+      "id": "E07000199",
+      "label": "Tamworth",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000020": {
+      "id": "E06000020",
+      "label": "Telford and Wrekin",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000025": {
+      "id": "E08000025",
+      "label": "Birmingham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000026": {
+      "id": "E08000026",
+      "label": "Coventry",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000027": {
+      "id": "E08000027",
+      "label": "Dudley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000028": {
+      "id": "E08000028",
+      "label": "Sandwell",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000029": {
+      "id": "E08000029",
+      "label": "Solihull",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000030": {
+      "id": "E08000030",
+      "label": "Walsall",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000031": {
+      "id": "E08000031",
+      "label": "Wolverhampton",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000011": {
+      "id": "E06000011",
+      "label": "East Riding of Yorkshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000010": {
+      "id": "E06000010",
+      "label": "Kingston upon Hull, City of",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000012": {
+      "id": "E06000012",
+      "label": "North East Lincolnshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000013": {
+      "id": "E06000013",
+      "label": "North Lincolnshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000065": {
+      "id": "E06000065",
+      "label": "North Yorkshire",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E06000014": {
+      "id": "E06000014",
+      "label": "York",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000016": {
+      "id": "E08000016",
+      "label": "Barnsley",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000017": {
+      "id": "E08000017",
+      "label": "Doncaster",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000018": {
+      "id": "E08000018",
+      "label": "Rotherham",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000019": {
+      "id": "E08000019",
+      "label": "Sheffield",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000032": {
+      "id": "E08000032",
+      "label": "Bradford",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000033": {
+      "id": "E08000033",
+      "label": "Calderdale",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000034": {
+      "id": "E08000034",
+      "label": "Kirklees",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000035": {
+      "id": "E08000035",
+      "label": "Leeds",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    },
+    "E08000036": {
+      "id": "E08000036",
+      "label": "Wakefield",
+      "version": "ons_textkernel_lad_april2023",
+      "type": "local_authority_district",
+      "boundary": "ONS advertising district as at April 2023"
+    }
+  },
+  "occupations": {
+    "1111": "Chief executives and senior officials",
+    "1112": "Elected officers and representatives",
+    "1121": "Production managers and directors in manufacturing",
+    "1122": "Production managers and directors in construction",
+    "1123": "Production managers and directors in mining and energy",
+    "1131": "Financial managers and directors",
+    "1132": "Marketing, sales and advertising directors",
+    "1133": "Public relations and communications directors",
+    "1134": "Purchasing managers and directors",
+    "1135": "Charitable organisation managers and directors",
+    "1136": "Human resource managers and directors",
+    "1137": "Information technology directors",
+    "1139": "Functional managers and directors n.e.c.",
+    "1140": "Directors in logistics, warehousing and transport",
+    "1150": "Managers and directors in retail and wholesale",
+    "1161": "Officers in armed forces",
+    "1162": "Senior police officers",
+    "1163": "Senior officers in fire, ambulance, prison and related services",
+    "1171": "Health services and public health managers and directors",
+    "1172": "Social services managers and directors",
+    "1211": "Managers and proprietors in agriculture and horticulture",
+    "1212": "Managers and proprietors in forestry, fishing and related services",
+    "1221": "Hotel and accommodation managers and proprietors",
+    "1222": "Restaurant and catering establishment managers and proprietors",
+    "1223": "Publicans and managers of licensed premises",
+    "1224": "Leisure and sports managers and proprietors",
+    "1225": "Travel agency managers and proprietors",
+    "1231": "Health care practice managers",
+    "1232": "Residential, day and domiciliary care managers and proprietors",
+    "1233": "Early education and childcare services proprietors",
+    "1241": "Managers in transport and distribution",
+    "1242": "Managers in storage and warehousing",
+    "1243": "Managers in logistics",
+    "1251": "Property, housing and estate managers",
+    "1252": "Garage managers and proprietors",
+    "1253": "Hairdressing and beauty salon managers and proprietors",
+    "1254": "Waste disposal and environmental services managers",
+    "1255": "Managers and directors in the creative industries",
+    "1256": "Betting shop and gambling establishment managers",
+    "1257": "Hire services managers and proprietors",
+    "1258": "Directors in consultancy services",
+    "1259": "Managers and proprietors in other services n.e.c.",
+    "2111": "Chemical scientists",
+    "2112": "Biological scientists",
+    "2113": "Biochemists and biomedical scientists",
+    "2114": "Physical scientists",
+    "2115": "Social and humanities scientists",
+    "2119": "Natural and social science professionals n.e.c.",
+    "2121": "Civil engineers",
+    "2122": "Mechanical engineers",
+    "2123": "Electrical engineers",
+    "2124": "Electronics engineers",
+    "2125": "Production and process engineers",
+    "2126": "Aerospace engineers",
+    "2127": "Engineering project managers and project engineers",
+    "2129": "Engineering professionals n.e.c.",
+    "2131": "IT project managers",
+    "2132": "IT managers",
+    "2133": "IT business analysts, architects and systems designers",
+    "2134": "Programmers and software development professionals",
+    "2135": "Cyber security professionals",
+    "2136": "IT quality and testing professionals",
+    "2137": "IT network professionals",
+    "2139": "Information technology professionals n.e.c.",
+    "2141": "Web design professionals",
+    "2142": "Graphic and multimedia designers",
+    "2151": "Conservation professionals",
+    "2152": "Environment professionals",
+    "2161": "Research and development (R&D) managers",
+    "2162": "Other researchers, unspecified discipline",
+    "2211": "Generalist medical practitioners",
+    "2212": "Specialist medical practitioners",
+    "2221": "Physiotherapists",
+    "2222": "Occupational therapists",
+    "2223": "Speech and language therapists",
+    "2224": "Psychotherapists and cognitive behaviour therapists",
+    "2225": "Clinical psychologists",
+    "2226": "Other psychologists",
+    "2229": "Therapy professionals n.e.c.",
+    "2231": "Midwifery nurses",
+    "2232": "Registered community nurses",
+    "2233": "Registered specialist nurses",
+    "2234": "Registered nurse practitioners",
+    "2235": "Registered mental health nurses",
+    "2236": "Registered children's nurses",
+    "2237": "Other registered nursing professionals",
+    "2240": "Veterinarians",
+    "2251": "Pharmacists",
+    "2252": "Optometrists",
+    "2253": "Dental practitioners",
+    "2254": "Medical radiographers",
+    "2255": "Paramedics",
+    "2256": "Podiatrists",
+    "2259": "Other health professionals n.e.c.",
+    "2311": "Higher education teaching professionals",
+    "2312": "Further education teaching professionals",
+    "2313": "Secondary education teaching professionals",
+    "2314": "Primary education teaching professionals",
+    "2315": "Nursery education teaching professionals",
+    "2316": "Special and additional needs education teaching professionals",
+    "2317": "Teachers of English as a foreign language",
+    "2319": "Teaching professionals n.e.c.",
+    "2321": "Head teachers and principals",
+    "2322": "Education managers",
+    "2323": "Education advisers and school inspectors",
+    "2324": "Early education and childcare services managers",
+    "2329": "Other educational professionals n.e.c",
+    "2411": "Barristers and judges",
+    "2412": "Solicitors and lawyers",
+    "2419": "Legal professionals n.e.c.",
+    "2421": "Chartered and certified accountants",
+    "2422": "Finance and investment analysts and advisers",
+    "2423": "Taxation experts",
+    "2431": "Management consultants and business analysts",
+    "2432": "Marketing and commercial managers",
+    "2433": "Actuaries, economists and statisticians",
+    "2434": "Business and related research professionals",
+    "2435": "Professional/Chartered company secretaries",
+    "2439": "Business, research and administrative professionals n.e.c.",
+    "2440": "Business and financial project management professionals",
+    "2451": "Architects",
+    "2452": "Chartered architectural technologists, planning officers and consultants",
+    "2453": "Quantity surveyors",
+    "2454": "Chartered surveyors",
+    "2455": "Construction project managers and related professionals",
+    "2461": "Social workers",
+    "2462": "Probation officers",
+    "2463": "Clergy",
+    "2464": "Youth work professionals",
+    "2469": "Welfare professionals n.e.c.",
+    "2471": "Librarians",
+    "2472": "Archivists, conservators and curators",
+    "2481": "Quality control and planning engineers",
+    "2482": "Quality assurance and regulatory professionals",
+    "2483": "Environmental health professionals",
+    "2491": "Newspaper, periodical and broadcast editors",
+    "2492": "Newspaper and periodical broadcast journalists and reporters",
+    "2493": "Public relations professionals",
+    "2494": "Advertising accounts managers and creative directors",
+    "3111": "Laboratory technicians",
+    "3112": "Electrical and electronics technicians",
+    "3113": "Engineering technicians",
+    "3114": "Building and civil engineering technicians",
+    "3115": "Quality assurance technicians",
+    "3116": "Planning, process and production technicians",
+    "3119": "Science, engineering and production technicians n.e.c.",
+    "3120": "CAD, drawing and architectural technicians",
+    "3131": "IT operations technicians",
+    "3132": "IT user support technicians",
+    "3133": "Database administrators and web content technicians",
+    "3211": "Dispensing opticians",
+    "3212": "Pharmaceutical technicians",
+    "3213": "Medical and dental technicians",
+    "3214": "Complementary health associate professionals",
+    "3219": "Health associate professionals n.e.c.",
+    "3221": "Youth and community workers",
+    "3222": "Child and early years officers",
+    "3223": "Housing officers",
+    "3224": "Counsellors",
+    "3229": "Welfare and housing associate professionals n.e.c.",
+    "3231": "Higher level teaching assistants",
+    "3232": "Early education and childcare practitioners",
+    "3240": "Veterinary nurses",
+    "3311": "Non-commissioned officers and other ranks",
+    "3312": "Police officers (sergeant and below)",
+    "3313": "Fire service officers (watch manager and below)",
+    "3314": "Prison service officers (below principal officer)",
+    "3319": "Protective service associate professionals n.e.c.",
+    "3411": "Artists",
+    "3412": "Authors, writers and translators",
+    "3413": "Actors, entertainers and presenters",
+    "3414": "Dancers and choreographers",
+    "3415": "Musicians",
+    "3416": "Arts officers, producers and directors",
+    "3417": "Photographers, audio-visual and broadcasting equipment operators",
+    "3421": "Interior designers",
+    "3422": "Clothing, fashion and accessories designers",
+    "3429": "Design occupations n.e.c.",
+    "3431": "Sports players",
+    "3432": "Sports coaches, instructors and officials",
+    "3433": "Fitness and wellbeing instructors",
+    "3511": "Aircraft pilots and air traffic controllers",
+    "3512": "Ship and hovercraft officers",
+    "3520": "Legal associate professionals",
+    "3531": "Brokers",
+    "3532": "Insurance underwriters",
+    "3533": "Financial and accounting technicians",
+    "3534": "Financial accounts managers",
+    "3541": "Estimators, valuers and assessors",
+    "3542": "Importers and exporters",
+    "3543": "Project support officers",
+    "3544": "Data analysts",
+    "3549": "Business associate professionals n.e.c.",
+    "3551": "Buyers and procurement officers",
+    "3552": "Business sales executives",
+    "3553": "Merchandisers",
+    "3554": "Advertising and marketing associate professionals",
+    "3555": "Estate agents and auctioneers",
+    "3556": "Sales accounts and business development managers",
+    "3557": "Events managers and organisers",
+    "3560": "Public services associate professionals",
+    "3571": "Human resources and industrial relations officers",
+    "3572": "Careers advisers and vocational guidance specialists",
+    "3573": "Information technology trainers",
+    "3574": "Other vocational and industrial trainers",
+    "3581": "Inspectors of standards and regulations",
+    "3582": "Health and safety managers and officers",
+    "4111": "National government administrative occupations",
+    "4112": "Local government administrative occupations",
+    "4113": "Officers of non-governmental organisations",
+    "4121": "Credit controllers",
+    "4122": "Book-keepers, payroll managers and wages clerks",
+    "4123": "Bank and post office clerks",
+    "4124": "Finance officers",
+    "4129": "Financial administrative occupations n.e.c.",
+    "4131": "Records clerks and assistants",
+    "4132": "Pensions and insurance clerks and assistants",
+    "4133": "Stock control clerks and assistants",
+    "4134": "Transport and distribution clerks and assistants",
+    "4135": "Library clerks and assistants",
+    "4136": "Human resources administrative occupations",
+    "4141": "Office managers",
+    "4142": "Office supervisors",
+    "4143": "Customer service managers",
+    "4151": "Sales administrators",
+    "4152": "Data entry administrators",
+    "4159": "Other administrative occupations n.e.c.",
+    "4211": "Medical secretaries",
+    "4212": "Legal secretaries",
+    "4213": "School secretaries",
+    "4214": "Company secretaries and administrators",
+    "4215": "Personal assistants and other secretaries",
+    "4216": "Receptionists",
+    "4217": "Typists and related keyboard occupations",
+    "5111": "Farmers",
+    "5112": "Horticultural trades",
+    "5113": "Gardeners and landscape gardeners",
+    "5114": "Groundsmen and greenkeepers",
+    "5119": "Agricultural and fishing trades n.e.c.",
+    "5211": "Sheet metal workers",
+    "5212": "Metal plate workers, smiths, moulders and related occupations",
+    "5213": "Welding trades",
+    "5214": "Pipe fitters",
+    "5221": "Metal machining setters and setter-operators",
+    "5222": "Tool makers, tool fitters and markers-out",
+    "5223": "Metal working production and maintenance fitters",
+    "5224": "Precision instrument makers and repairers",
+    "5225": "Air-conditioning and refrigeration installers and repairers",
+    "5231": "Vehicle technicians, mechanics and electricians",
+    "5232": "Vehicle body builders and repairers",
+    "5233": "Vehicle paint technicians",
+    "5234": "Aircraft maintenance and related trades",
+    "5235": "Boat and ship builders and repairers",
+    "5236": "Rail and rolling stock builders and repairers",
+    "5241": "Electricians and electrical fitters",
+    "5242": "Telecoms and related network installers and repairers",
+    "5243": "TV, video and audio servicers and repairers",
+    "5244": "Computer system and equipment installers and servicers",
+    "5245": "Security system installers and repairers",
+    "5246": "Electrical service and maintenance mechanics and repairers",
+    "5249": "Electrical and electronic trades n.e.c.",
+    "5250": "Skilled metal, electrical and electronic trades supervisors",
+    "5311": "Steel erectors",
+    "5312": "Stonemasons and related trades",
+    "5313": "Bricklayers",
+    "5314": "Roofers, roof tilers and slaters",
+    "5315": "Plumbers and heating and ventilating installers and repairers",
+    "5316": "Carpenters and joiners",
+    "5317": "Glaziers, window fabricators and fitters",
+    "5319": "Construction and building trades n.e.c.",
+    "5321": "Plasterers",
+    "5322": "Floorers and wall tilers",
+    "5323": "Painters and decorators",
+    "5330": "Construction and building trades supervisors",
+    "5411": "Upholsterers",
+    "5412": "Footwear and leather working trades",
+    "5413": "Tailors and dressmakers",
+    "5419": "Textiles, garments and related trades n.e.c.",
+    "5421": "Pre-press technicians",
+    "5422": "Printers",
+    "5423": "Print finishing and binding workers",
+    "5431": "Butchers",
+    "5432": "Bakers and flour confectioners",
+    "5433": "Fishmongers and poultry dressers",
+    "5434": "Chefs",
+    "5435": "Cooks",
+    "5436": "Catering and bar managers",
+    "5441": "Glass and ceramics makers, decorators and finishers",
+    "5442": "Furniture makers and other craft woodworkers",
+    "5443": "Florists",
+    "5449": "Other skilled trades n.e.c.",
+    "6111": "Early education and childcare assistants",
+    "6112": "Teaching assistants",
+    "6113": "Educational support assistants",
+    "6114": "Childminders",
+    "6116": "Nannies and au pairs",
+    "6117": "Playworkers",
+    "6121": "Pest control officers",
+    "6129": "Animal care services occupations n.e.c.",
+    "6131": "Nursing auxiliaries and assistants",
+    "6132": "Ambulance staff (excluding paramedics)",
+    "6133": "Dental nurses",
+    "6134": "Houseparents and residential wardens",
+    "6135": "Care workers and home carers",
+    "6136": "Senior care workers",
+    "6137": "Care escorts",
+    "6138": "Undertakers, mortuary and crematorium assistants",
+    "6211": "Sports and leisure assistants",
+    "6212": "Travel agents",
+    "6213": "Air travel assistants",
+    "6214": "Rail travel assistants",
+    "6219": "Leisure and travel service occupations n.e.c.",
+    "6221": "Hairdressers and barbers",
+    "6222": "Beauticians and related occupations",
+    "6231": "Housekeepers and related occupations",
+    "6232": "Caretakers",
+    "6240": "Cleaning and housekeeping managers and supervisors",
+    "6311": "Police community support officers",
+    "6312": "Parking and civil enforcement occupations",
+    "7111": "Sales and retail assistants",
+    "7112": "Retail cashiers and check-out operators",
+    "7113": "Telephone salespersons",
+    "7114": "Pharmacy and optical dispensing assistants",
+    "7115": "Vehicle and parts salespersons and advisers",
+    "7121": "Collector salespersons and credit agents",
+    "7122": "Debt, rent and other cash collectors",
+    "7123": "Roundspersons and van salespersons",
+    "7124": "Market and street traders and assistants",
+    "7125": "Visual merchandisers and related occupations",
+    "7129": "Sales related occupations n.e.c.",
+    "7131": "Shopkeepers and owners - retail and wholesale",
+    "7132": "Sales supervisors - retail and wholesale",
+    "7211": "Call and contact centre occupations",
+    "7212": "Telephonists",
+    "7213": "Communication operators",
+    "7214": "Market research interviewers",
+    "7219": "Customer service occupations n.e.c.",
+    "7220": "Customer service supervisors",
+    "8111": "Food, drink and tobacco process operatives",
+    "8112": "Textile process operatives",
+    "8113": "Chemical and related process operatives",
+    "8114": "Plastics process operatives",
+    "8115": "Metal making and treating process operatives",
+    "8119": "Process operatives n.e.c.",
+    "8120": "Metal working machine operatives",
+    "8131": "Paper and wood machine operatives",
+    "8132": "Mining and quarry workers and related operatives",
+    "8133": "Energy plant operatives",
+    "8134": "Water and sewerage plant operatives",
+    "8135": "Printing machine assistants",
+    "8139": "Plant and machine operatives n.e.c.",
+    "8141": "Assemblers (electrical and electronic products)",
+    "8142": "Assemblers (vehicles and metal goods)",
+    "8143": "Routine inspectors and testers",
+    "8144": "Weighers, graders and sorters",
+    "8145": "Tyre, exhaust and windscreen fitters",
+    "8146": "Sewing machinists",
+    "8149": "Assemblers and routine operatives n.e.c.",
+    "8151": "Scaffolders, stagers and riggers",
+    "8152": "Road construction operatives",
+    "8153": "Rail construction and maintenance operatives",
+    "8159": "Construction operatives n.e.c.",
+    "8160": "Production, factory and assembly supervisors",
+    "8211": "Heavy and large goods vehicle drivers",
+    "8212": "Bus and coach drivers",
+    "8213": "Taxi and cab drivers and chauffeurs",
+    "8214": "Delivery drivers and couriers",
+    "8215": "Driving instructors",
+    "8219": "Road transport drivers n.e.c.",
+    "8221": "Crane drivers",
+    "8222": "Fork-lift truck drivers",
+    "8229": "Mobile machine drivers and operatives n.e.c.",
+    "8231": "Train and tram drivers",
+    "8232": "Marine and waterways transport operatives",
+    "8233": "Air transport operatives",
+    "8234": "Rail transport operatives",
+    "8239": "Other drivers and transport operatives n.e.c.",
+    "9111": "Farm workers",
+    "9112": "Forestry and related workers",
+    "9119": "Fishing and other elementary agriculture occupations n.e.c.",
+    "9121": "Groundworkers",
+    "9129": "Elementary construction occupations n.e.c.",
+    "9131": "Industrial cleaning process occupations",
+    "9132": "Packers, bottlers, canners and fillers",
+    "9139": "Elementary process plant occupations n.e.c.",
+    "9211": "Postal workers, mail sorters and messengers",
+    "9219": "Elementary administration occupations n.e.c.",
+    "9221": "Window cleaners",
+    "9222": "Street cleaners",
+    "9223": "Cleaners and domestics",
+    "9224": "Launderers, dry cleaners and pressers",
+    "9225": "Refuse and salvage occupations",
+    "9226": "Vehicle valeters and cleaners",
+    "9229": "Elementary cleaning occupations n.e.c.",
+    "9231": "Security guards and related occupations",
+    "9232": "School midday and crossing patrol occupations",
+    "9233": "Exam invigilators",
+    "9241": "Shelf fillers",
+    "9249": "Elementary sales occupations n.e.c.",
+    "9251": "Elementary storage supervisors",
+    "9252": "Warehouse operatives",
+    "9253": "Delivery operatives",
+    "9259": "Elementary storage occupations n.e.c.",
+    "9261": "Bar and catering supervisors",
+    "9262": "Hospital porters",
+    "9263": "Kitchen and catering assistants",
+    "9264": "Waiters and waitresses",
+    "9265": "Bar staff",
+    "9266": "Coffee shop workers",
+    "9267": "Leisure and theme park attendants",
+    "9269": "Other elementary services occupations n.e.c.",
+    "6250": "Bed and breakfast and guest house owners and proprietors"
+  },
+  "records": 133853,
+  "suppressed": 74274,
+  "period": "2026Q2",
+  "column": "AR",
+  "licence": "ONS-published aggregate statistics, Open Government Licence v3.0; no raw Textkernel adverts",
+  "caveats": [
+    "ONS statistics in development, derived from Textkernel online adverts and model-assigned SOC2020 occupations.",
+    "New adverts are a demand signal, not unique vacancies, filled jobs, available candidates or proof of shortage.",
+    "Q2 2026 includes imputed June observations; increased source uncertainty since November 2025 requires caution.",
+    "Source collection changes, duplicates and missing adverts affect coverage. Counts may not add because of rounding.",
+    "March 2026 was suppressed; this pack makes no quarter-on-quarter or year-on-year growth claim.",
+    "London is published as a region rather than boroughs; district evidence is not substituted with that total."
+  ]
+}

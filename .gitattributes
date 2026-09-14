@@ -1,0 +1,7 @@
+# Qualified evidence and licence text are verified byte-for-byte.
+uk_labour_market_navigator/resources/** -text
+LICENSE -text
+examples/** -text
+
+# Use the formatter's line endings on every development platform.
+*.py text eol=lf

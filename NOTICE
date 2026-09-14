@@ -1,0 +1,12 @@
+Copyright (C) 2026 Louise Mead.
+
+UK Labour Market Navigator software is licensed under the GNU Affero General
+Public License, version 3 only (SPDX: AGPL-3.0-only).
+
+You may redistribute and modify the software under that licence. It is provided
+without any warranty, including implied warranties of merchantability or fitness
+for a particular purpose. See the complete, unmodified licence in LICENSE.
+
+Official source data and documentation retain their separate terms in
+THIRD_PARTY_NOTICES.md and LICENSE-DOCS.md. Those notices identify exceptions to
+the software licence; the repository does not grant optional-provider data rights.
